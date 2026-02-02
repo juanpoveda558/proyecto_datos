@@ -1,0 +1,13 @@
+# Entornos virtuales
+clima_env/
+venv/
+.venv/
+
+# Seguridad (Archivos de variables de entorno)
+.env
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Datos (opcional, si no quieres subir el CSV)
+*.csv
